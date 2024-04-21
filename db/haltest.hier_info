@@ -1,0 +1,6 @@
+|haltest
+clk => ~NO_FANOUT~
+hal => DC_motor.OUTPUTSELECT
+DC_motor <= DC_motor.DB_MAX_OUTPUT_PORT_TYPE
+
+
